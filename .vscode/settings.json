@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "workbench.welcome.enabled": false,
+  "window.menuBarVisibility": "toggle",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "files.eol": "\n",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontFamily":"'Source Code Pro', Consolas, monospace"
+}
