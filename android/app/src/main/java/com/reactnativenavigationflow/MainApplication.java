@@ -1,4 +1,4 @@
-package com.reactnav;
+package com.reactnativenavigationflow;
 
 import android.app.Application;
 
