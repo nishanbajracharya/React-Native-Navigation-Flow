@@ -4,7 +4,7 @@ import { AppRegistry } from 'react-native';
 import App from './app/';
 
 export default class ReactNativeNavigationFlow extends Component {
-  
+
   render() {
     return (
       <App />
@@ -13,4 +13,4 @@ export default class ReactNativeNavigationFlow extends Component {
 
 }
 
-AppRegistry.registerComponent('reactnativenavigationflow', () => ReactNativeNavigationFlow);
+AppRegistry.registerComponent('ReactNativeNavigationFlow', () => ReactNativeNavigationFlow);
