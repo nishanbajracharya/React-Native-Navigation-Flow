@@ -14,7 +14,7 @@ An example to show a navigation flow approach using [react-navigation](https://r
 
         $ git clone https://github.com/nishanbajracharya/React-Native-Navigation-Flow.git
 
-* Navigate to the directory `cd musashi-frontend` and install all dependencies listed in [package.json](package.json) using **yarn**:
+* Navigate to the directory and install all dependencies listed in [package.json](package.json) using **yarn**:
 
         $ yarn
 
@@ -42,3 +42,6 @@ An example to show a navigation flow approach using [react-navigation](https://r
 
 * For Production:
     Follow [these](https://facebook.github.io/react-native/docs/signed-apk-android.html) steps for generating signed apk for android app.
+
+## Screen Capture
+<img src="https://dl.dropboxusercontent.com/s/gjl2yqayavmaw6f/reactnativenavigationflow.gif" width="240" alt="" />
